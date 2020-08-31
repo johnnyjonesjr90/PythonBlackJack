@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1.pyproj", "{896EEC85-6878-45AA-BDCE-D5B9E4833AE9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonModule", "..\PythonModule\PythonModule.pyproj", "{504DE66F-CC92-4339-9D17-B7A5265DEC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896EEC85-6878-45AA-BDCE-D5B9E4833AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896EEC85-6878-45AA-BDCE-D5B9E4833AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504DE66F-CC92-4339-9D17-B7A5265DEC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504DE66F-CC92-4339-9D17-B7A5265DEC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7DD056E-7F5A-4DD6-B4CA-C5DF00044E85}
+	EndGlobalSection
+EndGlobal
